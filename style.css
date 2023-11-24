@@ -1,0 +1,165 @@
+/* BOX DIMENSIONS */
+ /* div {
+      
+      height: 200px; 
+    width: 400px;
+    background-color: aquamarine; 
+} 
+p{
+    width: 2o0%;
+} 
+/* LIMITING WIDTH */
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;} */
+    /* LIMITING WIDTH */
+   /* h2,p{
+    width: 400px;
+font-size: 100%;
+line-height: 1.6em;
+}
+h2{
+    color: blue;
+    border-bottom: 1px solid #14df14;
+}
+p{
+    min-height: 600;
+    max-height: 400;
+}
+/* OVER FLOWING */
+/* p.one{ 
+    overflow: hidden;
+}
+
+p.two{
+    overflow: scroll;
+
+} */
+/* BORDER WIDTH */
+/* ONE BY ONE */
+/* p{
+    border top width: 10px;
+border-right-width : 5px;
+border-bottom-width :10px;
+border-left-width:5px;
+}
+/* SHORT HAND  */
+/* p{
+   border-style: solid;
+  border-width: 10px 5px 10px 5px  ;   
+   border-color: rgb(250, 6, 54);
+} */ 
+/* BORDER STYLE */
+/* p{
+    border-style: dashed;
+    border-style: dotted;
+    border-style: double;
+    border-style: hidden;
+    border-style: inherit;
+    border-style: groove;
+} */
+/* BORDER COLOR */
+/* ONE BY ONE */
+/* p{
+    border-style: solid;
+    border-top-color : red;
+    border-left-color: blueviolet;
+    border-right-color: blueviolet;
+    border-bottom-color:red ;
+} */
+/* SHORT HAND  */
+/* P{
+    border-style: solid;
+    border-color: red burlywood aqua brown;
+} */
+/* Shorthandborder*/
+/* p{
+    border-width: 250px ;
+    border: 5px dashed brown;
+} */
+/* PADDING */
+/* p{
+    border-style: solid;
+    border-color: brown;
+    border-width: 5px;
+    padding: 10px 20px 20px 40px;
+
+} */
+ /* MARGIN */
+/* p{ 
+    border-style: solid;
+    border-color: aquamarine;
+    margin: 10px 5px 40px 9px;
+} */
+/* CONTENT */
+/* p{
+    border: 2px solid brown;
+   width: 300px; 
+    padding: 50px;
+}
+p.example {
+    margin: 10px auto 10px auto;}  */
+
+    /*  CHANGE INLINE OR BLOCK*/
+     /* li {
+        display: inline;
+        margin-right: 10px;}
+        li.coming-soon {
+        display: none;}  */
+         /* li{
+            display: inline-block;
+            font-size: 20px;
+            padding: 20px;
+        }   */
+        /* li.coming-soon{
+            display: none;
+        } */
+        /* HIDING BOXES */
+        /* li{
+            display: inline-block;
+            font-size: 20px;
+            padding: 20px;
+        }  
+        li.coming-soon{
+            visibility: hidden;
+        } */
+        /* BORDER IMAGES */
+         /* .one{ 
+            border: 10px solid transparent;
+            padding: 15px;
+            border-image: url(d:\files\connect-the-dots.png)30 rounds;
+        } */
+        /* BOX SHADOW */
+/* .one{
+    box-shadow:0 0 10px #fc0202;
+} */
+/* BORDER CORNER */
+/* p{
+    width: 200px;
+    border: 2px solid brown;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 20px 40px 60px 80px;
+    background-color: black;
+    color: aliceblue ;
+} */
+/* body{
+   background-color: rgb(12, 12, 12) ;
+}
+p{
+    border: 20px solid ;
+    background-color: rgb(251, 248, 248);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+} */
+/* img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+} */
